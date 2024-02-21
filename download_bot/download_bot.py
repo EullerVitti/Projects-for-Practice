@@ -1,7 +1,7 @@
 import pyautogui as gui
 import time
 
-number = input("How many cycles, daddy? ")
+number = input("How many cycles, sir? ")
 time.sleep(5)
 
 count = 375
