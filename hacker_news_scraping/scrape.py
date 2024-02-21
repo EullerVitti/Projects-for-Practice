@@ -44,5 +44,3 @@ if num_pg > 1:
 
 
 pprint.pprint(create_custom_hn(links,subtext))
-
-#i.e.: To see the list of the 3 first pages do: C:\Users\eulle\Desktop\VSCode\Scraping>python scrape.py 3
