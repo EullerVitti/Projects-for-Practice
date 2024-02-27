@@ -22,3 +22,4 @@ This Python script uses the pyautogui library to simulate mouse actions on a lin
 In short this code detects if someone has moved the cursor. If so, a GIF pops up on the screen to jumpscare the user, a picture from the webcam is taken, saved and then displayed and, after a second GIF, the system is suspended.
 
 PS: The path to the directory must be changed according to which computer the script is run on.
+PPS: I left an mp4 file demonstrating its execution.
